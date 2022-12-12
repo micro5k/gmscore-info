@@ -10,7 +10,7 @@ microG GmsCore updates
 Where can I download updates of microG GmsCore?
 -----------------------------------------------
 
-It depends from you ROM:
+It depends from your ROM:
 
 - /e/ (download GmsCore-stable.apk): https://gitlab.e.foundation/e/os/GmsCore/-/releases
 - CalyxOS: https://calyxos.gitlab.io/calyx-fdroid-repo/fdroid/repo/GmsCore.apk

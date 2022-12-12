@@ -3,9 +3,9 @@
    SPDX-License-Identifier: CC0-1.0
    SPDX-FileType: DOCUMENTATION
 
-======================
-microG GmsCore updates
-======================
+===================
+microG GmsCore info
+===================
 
 Where can I download updates of microG GmsCore?
 -----------------------------------------------

@@ -14,4 +14,4 @@ It depends from your ROM:
 
 - /e/ (download GmsCore-stable.apk): https://gitlab.e.foundation/e/os/GmsCore/-/releases
 - CalyxOS: https://calyxos.gitlab.io/calyx-fdroid-repo/fdroid/repo/GmsCore.apk
-- All other ROMs with official microG (including LineageOS for microG): https://microg.org/download.html
+- All ROMs with official microG (including LineageOS for microG): https://microg.org/download.html

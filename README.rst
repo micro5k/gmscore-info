@@ -7,11 +7,20 @@
 microG GmsCore info
 ===================
 
-Where can I download updates of microG GmsCore?
------------------------------------------------
+Where can I download the update of microG GmsCore?
+--------------------------------------------------
 
-It depends from your ROM:
+The location of the update of microG GmsCore depend from your ROM.
 
-- /e/ (download GmsCore-stable.apk): https://gitlab.e.foundation/e/os/GmsCore/-/releases
-- CalyxOS: https://calyxos.gitlab.io/calyx-fdroid-repo/fdroid/repo/GmsCore.apk
-- All ROMs with official microG (including LineageOS for microG): https://microg.org/download.html
+microG GmsCore for `/e/ <https://e.foundation/>`_:
+
+- Download standard version `here <https://gitlab.e.foundation/e/os/android_prebuilts_prebuiltapks_lfs/-/raw/main/GmsCore/play-services-core-withMapbox-withoutNearby-release-unsigned.apk>`_;
+- Download version with EN API `here <https://gitlab.e.foundation/e/os/GmsCore/-/releases>`_ (download GmsCore-stable.apk).
+
+microG GmsCore for `CalyxOS <https://calyxos.org/>`_:
+
+- Download it `here <https://calyxos.gitlab.io/calyx-fdroid-repo/fdroid/repo/GmsCore.apk>`_.
+
+microG GmsCore for all ROMs with officially signed microG (including LineageOS for microG):
+
+- Download it `here <https://microg.org/download.html>`_.

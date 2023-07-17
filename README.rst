@@ -14,8 +14,8 @@ The location of the update of microG GmsCore depend from your ROM.
 
 microG GmsCore for `/e/ <https://e.foundation/>`_:
 
-- Download standard version `here <https://gitlab.e.foundation/e/os/android_prebuilts_prebuiltapks_lfs/-/raw/main/GmsCore/play-services-core-withMapbox-withoutNearby-release-unsigned.apk>`_;
-- Download version with EN API `here <https://gitlab.e.foundation/e/os/GmsCore/-/releases>`_ (download GmsCore-stable.apk).
+- Download the standard version `here <https://gitlab.e.foundation/e/os/android_prebuilts_prebuiltapks_lfs/-/raw/main/GmsCore/play-services-core-withMapbox-withoutNearby-release-unsigned.apk>`_;
+- Download the version with EN API `here <https://gitlab.e.foundation/e/os/GmsCore/-/releases>`_ (download GmsCore-stable.apk).
 
 microG GmsCore for `CalyxOS <https://calyxos.org/>`_:
 

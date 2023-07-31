@@ -19,8 +19,8 @@ microG GmsCore for `/e/ <https://e.foundation/>`_:
 
 microG GmsCore for `CalyxOS <https://calyxos.org/>`_:
 
-- Download it `here <https://gitlab.com/CalyxOS/platform_prebuilts_calyx_microg/-/raw/HEAD/GmsCore/play-services-core-withMapbox-withNearby-release.apk>`_ (currently 0.2.27.223616-42);
-- Or `here <https://calyxos.gitlab.io/calyx-fdroid-repo/fdroid/repo/GmsCore.apk>`_ (currently 0.2.25.223616-41).
+- Download it `here <https://gitlab.com/CalyxOS/platform_prebuilts_calyx_microg/-/raw/HEAD/GmsCore/play-services-core-withMapbox-withNearby-release.apk>`_ (currently **v0.2.27.223616-42**);
+- Or `here <https://calyxos.gitlab.io/calyx-fdroid-repo/fdroid/repo/GmsCore.apk>`_ (currently **v0.2.25.223616-41**).
 
 microG GmsCore for all ROMs with officially signed microG (including LineageOS for microG):
 

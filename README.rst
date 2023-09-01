@@ -22,6 +22,6 @@ microG Services for `CalyxOS <https://calyxos.org/>`_:
 - Download it `here <https://gitlab.com/CalyxOS/platform_prebuilts_calyx_microg/-/raw/HEAD/GmsCore/play-services-core-withMapbox-withNearby-release.apk>`_ (currently ``v0.2.28.233013-122 (910c56f)``);
 - Or `here <https://calyxos.gitlab.io/calyx-fdroid-repo/fdroid/repo/GmsCore.apk>`_ (currently ``v0.2.25.223616-41 (b22416d)``).
 
-microG Services for all ROMs with officially signed microG (including LineageOS for microG):
+microG Services for all ROMs with officially signed microG (including `LineageOS for microG <https://lineage.microg.org/>`_ and `iodéOS <https://iode.tech/en/>`_):
 
 - Download it `here <https://microg.org/download.html>`_.

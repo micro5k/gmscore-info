@@ -24,4 +24,4 @@ microG Services for `CalyxOS <https://calyxos.org/>`_:
 
 microG Services for all ROMs with officially signed microG (including `LineageOS for microG <https://lineage.microg.org/>`_ and `iodéOS <https://iode.tech/en/>`_):
 
-- Download it `here <https://microg.org/download.html>`_.
+- Download it `here <https://microg.org/download.html>`_ (currently ``v0.2.29.233013``).
